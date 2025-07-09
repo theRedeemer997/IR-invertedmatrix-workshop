@@ -4,7 +4,7 @@
 
 # Team member names
 - Manu Mathew - 8990691
-- Yogesh Gopal Kumar - 8996403 
+- Yogesh Kumar Gopal - 8996403 
 - Jahnavi Paknati - 9013742
 
 # Dataset Description
