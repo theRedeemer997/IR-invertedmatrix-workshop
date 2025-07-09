@@ -8,6 +8,7 @@ Yogesh Gopal Kumar
 Jahnavi Paknati
 
 # Dataset Description
+The dataset that we have collected for this lab6 is basically the job descriptions of domains ranging from Medical to Software Engineer.
 
 # Dataset Links
 - https://www.torontomu.ca/school-of-medicine/careers/
